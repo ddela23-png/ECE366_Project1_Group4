@@ -27,8 +27,10 @@ This repository contains the design, implementation, and simulation of various f
 │   ├── one_bit_full_adder_structural.v
 │   └── testbench.v
 ├── Problem 2/
-│   ├── CLA_32bit.v
-│   └── tb_CLA_32bit.v
+│   ├── cla_32bit.v
+│   └── cla_4bit_block.v
+    └── one_bit_full_adder.v
+    └── tb_cla_32bit.v
 ├── Problem 3/
 │   ├── PPA_16bit.v
 │   └── tb_PPA_16bit.v
